@@ -1,4 +1,4 @@
 # Analisis_de_Trabajo
-## Mi repositorio es:
+## Mi repositorio es: https://github.com/rodriiMatamoros/Analisis_de_Trabajo.git
 
-Conclusiones: Imposible el trabajo, hay cosas que no hemos visto todavia. He intentado de distintas formas pero no ha habido manera.
+Conclusiones: La verdad que la dificultad de este trabajo hizo imposible poderlo acabar. No supe como arrglar el programa para que funcionara despues de intentarlo demasiadas veces.
